@@ -3,9 +3,9 @@ at__type: Article
 at__context: 'http://schema.org'
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/aff04ff2-fa15-455f-b3fb-6a816afcfbb1.jpg
-title: 'Vysoke Tarry '
-datePublished: '2016-08-03T18:59:13.155Z'
-dateModified: '2016-08-03T18:59:08.908Z'
+title: 'Vysoke Tatry '
+datePublished: '2016-08-03T19:00:51.763Z'
+dateModified: '2016-08-03T19:00:49.362Z'
 publisher:
   name: The-grid-user-content
   domain: the-grid-user-content.s3-us-west-2.amazonaws.com
@@ -21,4 +21,6 @@ _type: MediaObject
 ---
 Wonderful July weekend in Vysoke Tatry. 🏞 🌲 🏔
 
-<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aff04ff2-fa15-455f-b3fb-6a816afcfbb1.jpg" /><h1>Vysoke Tarry </h1><p>Hiking trail paradise</p></article>
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aff04ff2-fa15-455f-b3fb-6a816afcfbb1.jpg" /><h1>Vysoke Tatry </h1><p>Hiking trail paradise</p></article>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce62499b-d0b0-4d6c-a57c-40b7bf8bb33b.jpg)
